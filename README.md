@@ -10,11 +10,11 @@ At the heart of the issue is the struggle to consolidate records that may span m
 
 Enter Med IntelliSense—a game-changer in this narrative. This innovative product is designed specifically to tackle these challenges faced by healthcare professionals every day. With Med IntelliSense, the process of retrieving medical records becomes seamless and straightforward. Using the latest advancements in Large Language Models, our AI doesn’t just sift through data; it synthesizes information into a clear and concise summary of the patient’s history and current condition.
 
-![image](https://github.com/user-attachments/assets/75cec7dc-719e-496e-ae38-9c1df73539d9)
+![image](medtech_images/medtech_image1.png)
 
 Picture a scenario where a doctor can simply engage with AI, asking it questions about the patient’s background. In seconds, they receive up-to-date and accurate answers—all drawn from comprehensive data. With Med IntelliSense, we aren’t just improving efficiency; we’re empowering healthcare providers to focus on what truly matters: delivering outstanding patient care. This is the future of healthcare, and it’s here now, transforming the way we approach patient records, one consultation at a time.
 
-![image](https://github.com/user-attachments/assets/cfe1a3f6-5f0b-40a8-ad79-d5078278e4c3)
+![image](medtech_images/medtech_2.png)
 
 Technologies Used:
  1. Express.js (Node, NPM)
@@ -43,4 +43,4 @@ Technologies Used:
 5. The project will not be running on `localhost/dashboard`
 
 ## Business
-![image](https://github.com/user-attachments/assets/42b26ce1-1abd-4095-9c58-271ba8b9a964)
+![image](medtech_images/medtech_image3.png)

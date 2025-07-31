@@ -1,7 +1,5 @@
 # Med IntelliSense
 
-(This is a template repository of the original project)
-
 Let me take you into the world of healthcare, where a persistent challenge looms over doctors and medical professionals—the chaos of fragmented patient records. Picture a busy clinic or hospital, where doctors often find themselves sifting through information scattered across various systems. It’s not just inconvenient; it complicates consultations. 
 
 Imagine this: a doctor, eager to provide the best care possible, spends a staggering 37% of their day poring over medical records, while nurses dedicate about 22% of their time to the same task. This was highlighted in a 2021 study titled “Interaction Time with Electronic Health Records: A Systematic Review.” These numbers tell a compelling story of a system that’s not functioning as it should.
